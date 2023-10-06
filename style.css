@@ -12,7 +12,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: #BCB0B0;
+    background-color: #00d3cf;
     border-radius: 0px 0px 0px 400px;
     }
     
@@ -32,7 +32,7 @@
     
     .cabecalho__menu-item{
         font-size: 32px;
-        color:#FEC229
+        color:#ca1cf0
         -webkit-text-stroke-width: 1px;
         -webkit-text-stroke-color: black;
         display: inline;
